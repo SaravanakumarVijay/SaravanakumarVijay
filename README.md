@@ -1,5 +1,4 @@
 ## Hi there 👋 This is [Saravanakumar][website] 😀
-(https://saravanav.netlify.app)
 
 ## Software / Mobile Application Developer | 🎓 MCA
 - 🌱 I’m currently learning ReactJS
@@ -49,6 +48,6 @@
 
 
 
-[website]: https://rasam-hossain.github.io/
-[linkedin]: https://www.linkedin.com/in/rasamhossain/
-[mail]: mailto:rasam_hossain@outlook.com
+[website]: https://saravanav.netlify.app
+[linkedin]: https://www.linkedin.com/in/saravanakumar-vijayakumar-331460a0/
+[mail]: mailto:saravanakumar.tsm@gmail.com
