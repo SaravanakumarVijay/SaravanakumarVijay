@@ -32,21 +32,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 
-## :trophy: My Github Stats:
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=rasam-hossain&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rasam-hossain&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rasam-hossain&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=rasam-hossain&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rasam-hossain&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=rasam-hossain&hide=php&theme=tokyonight" />
-</a>
-</div>
-
-
 
 [website]: https://saravanav.netlify.app
 [linkedin]: https://www.linkedin.com/in/saravanakumar-vijayakumar-331460a0/
