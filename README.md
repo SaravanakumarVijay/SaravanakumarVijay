@@ -1,13 +1,13 @@
 ## Hi there 👋 This is [Saravanakumar][website] 😀
 
 ## Software / Mobile Application Developer | 🎓 MCA
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Sharepoint
 - 👯 I’m looking to collaborate on open source/C#.Net/AngularJS based Web development projects
 - 👯 I’m looking to collaborate on native as well as Hybrid Mobile apps projects
 - 🤔 I’m looking for help with discussing a brand new business plan or just seeking a mentor with financial plans!
 - 💬 Ask me about your cool new project ideas, website design, or just about your photopgrahy plans!
 - 📫 How to reach me: saravanakumar.tsm@gmail.com
-- ⚡ Fun fact: I am also a mobile photographer. Checkout my photos at http://sara.hstn.me/poto/portfolio.html
+- ⚡ Fun fact: I am also a mobile photographer. Checkout my photos at https://saravanakumarvijay.github.io/SKClicks/
 
 ## :email: Find me on:
 <p align="center">
